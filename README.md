@@ -1,4 +1,4 @@
-# random forest classification
+# random forest Regression
 
 # sklearn random forest Regressor code
 from sklearn.ensemble import RandomForestRegressor
